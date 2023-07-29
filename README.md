@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://link-ke-avatar-anda](https://simak.unismuh.ac.id/upload/mahasiswa/105841109622_.jpg?1690609118)" width="150" height="150">
+  <img src="https://simak.unismuh.ac.id/upload/mahasiswa/105841109622_.jpg?1690609118" width="150" height="150">
   <h1>Farhan</h1>
   <p>Full-stack Web Developer | Python Enthusiast</p>
   <a href="https://www.linkedin.com/in/farhan/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
