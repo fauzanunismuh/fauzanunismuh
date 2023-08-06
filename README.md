@@ -1,37 +1,36 @@
-<div align="center">
-  <img src="https://simak.unismuh.ac.id/upload/mahasiswa/105841109622_.jpg?1690609118" width="150" height="150">
-  <h1>Farhan</h1>
-  <p>Full-stack Web Developer | Python Enthusiast</p>
-  <a href="https://www.linkedin.com/in/farhan/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-  <a href="https://twitter.com/farhan_dev" target="_blank" rel="noopener noreferrer">Twitter</a> |
-  <a href="https://www.example.com" target="_blank" rel="noopener noreferrer">Website</a>
-</div>
+<!-- Ganti 'username' dengan username GitHub Anda -->
+<!-- SVG Animasi atau GIF -->
+<p align="center">
+  <img src="https://github.com/username/username/raw/main/animation.svg" alt="animated" width="800" height="400" />
+</p>
 
----
+<!-- Profil Anda -->
+# Halo, Saya [Nama Anda]! 👋
+[Deskripsi profil atau tagline kreatif]
 
-### Tentang Saya
+<!-- Portofolio Proyek -->
+## Portofolio Proyek
 
-Saya adalah seorang Full-stack Web Developer dengan minat khusus dalam bahasa pemrograman Python. Saya suka menciptakan solusi teknis yang kreatif dan efisien.
+### [Nama Proyek 1](link_proyek_1)
+![Proyek 1](https://github.com/username/proyek-1/raw/main/demo.gif)
+Deskripsi proyek 1 yang menarik.
 
-### Bahasa Pemrograman & Teknologi
+### [Nama Proyek 2](link_proyek_2)
+![Proyek 2](https://github.com/username/proyek-2/raw/main/demo.gif)
+Deskripsi proyek 2 yang menarik.
 
-- Bahasa Pemrograman: Python, JavaScript, Java
-- Front-end: HTML, CSS, React
-- Back-end: Node.js, Express, Django
-- Database: PostgreSQL, MongoDB
-- Lainnya: Git, Docker
+<!-- Badge dan Statistik GitHub -->
+## Statistik GitHub
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide=prs,contribs&theme=radical)
 
-### Proyek Terbaru
+## Bahasa Pemrograman
+[<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />](https://www.contoh-link.com)
+[<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />](https://www.contoh-link.com)
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />](https://www.contoh-link.com)
+[<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />](https://www.contoh-link.com)
 
-- [Nama Proyek 1](https://github.com/farhan/repo1): Deskripsi proyek yang menarik dan singkat.
-- [Nama Proyek 2](https://github.com/farhan/repo2): Deskripsi proyek yang menarik dan singkat.
-
-### Statistik GitHub
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=farhan&show_icons=true&hide_title=true)
-
-### Kutipan Inspiratif
-
-> "Kode itu seperti puisi; setiap baris adalah ekspresi dari pemikiran yang indah." - Farhan
-
-Terima kasih telah mengunjungi profil saya!
+<!-- Tautan Media Sosial dan Situs Web -->
+## Temukan Saya di Sosial Media
+[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/username)
+[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/username)
+[<img src="https://img.shields.io/badge/-Personal%20Website-ff5722?style=flat&logo=google-chrome&logoColor=white" />](https://www.nama-situs-web.com)
