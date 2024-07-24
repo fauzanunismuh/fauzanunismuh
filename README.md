@@ -1,36 +1,11 @@
-<!-- Ganti 'username' dengan username GitHub Anda -->
-<!-- SVG Animasi atau GIF -->
-<p align="center">
-  <img src="https://github.com/username/username/raw/main/animation.svg" alt="animated" width="800" height="400" />
+<h1 align="center">Hi 👋, I'm Fauzan Azhari Rahman</h1>
+<h3 align="center">Hi there! I'm Farhan, a student from the Informatics Study Program at the Faculty of Engineering, Muhammadiyah University of Makassar. I have a passion for IT and love spending time on my laptop. My main focus is frontend development, where I dedicate myself to crafting visually appealing and user-friendly interfaces for websites and applications. Feel free to connect with me for collaboration or if you share similar interests in frontend development!</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/fauzan_azhri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fauzan_azhri" height="30" width="40" /></a>
+<a href="/farhan-dev.web.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="farhan-dev.web.app" height="30" width="40" /></a>
 </p>
 
-<!-- Profil Anda -->
-# Halo, Saya [Nama Anda]! 👋
-[Deskripsi profil atau tagline kreatif]
-
-<!-- Portofolio Proyek -->
-## Portofolio Proyek
-
-### [Nama Proyek 1](link_proyek_1)
-![Proyek 1](https://github.com/username/proyek-1/raw/main/demo.gif)
-Deskripsi proyek 1 yang menarik.
-
-### [Nama Proyek 2](link_proyek_2)
-![Proyek 2](https://github.com/username/proyek-2/raw/main/demo.gif)
-Deskripsi proyek 2 yang menarik.
-
-<!-- Badge dan Statistik GitHub -->
-## Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide=prs,contribs&theme=radical)
-
-## Bahasa Pemrograman
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />](https://www.contoh-link.com)
-[<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />](https://www.contoh-link.com)
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />](https://www.contoh-link.com)
-[<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />](https://www.contoh-link.com)
-
-<!-- Tautan Media Sosial dan Situs Web -->
-## Temukan Saya di Sosial Media
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/username)
-[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/username)
-[<img src="https://img.shields.io/badge/-Personal%20Website-ff5722?style=flat&logo=google-chrome&logoColor=white" />](https://www.nama-situs-web.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
